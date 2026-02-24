@@ -20,7 +20,7 @@ A neural semantic search engine that intelligently matches user queries to produ
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/semantic-product-search.git
+git clone https://github.com/saadamir1/semantic-product-search.git
 cd semantic-product-search
 
 # Install required dependencies
